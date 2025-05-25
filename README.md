@@ -1,2 +1,2 @@
 # KiCad-Library
-KiCad Library, 3Dmodles, Blocks, Footprints, Symbols and Templates
+3Dmodles, Blocks, Footprints, Symbols and Templates.
